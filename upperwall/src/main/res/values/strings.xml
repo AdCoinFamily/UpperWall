@@ -1,1 +1,21 @@
-<resources></resources>
+<resources>
+
+
+    <string name="upperwall_orange_emoji"> &#127818;</string>
+
+
+    <string name="upperwall_1">Заработать</string>
+    <string name="upperwall_2">Создать</string>
+    <string name="upperwall_3">ЛК</string>
+    <string name="upperwall_4">Выйти</string>
+    <string name="upperwall_5">Введите ответ</string>
+    <string name="upperwall_6">Проверить</string>
+    <string name="upperwall_7">Перейти</string>
+    <string name="upperwall_8">+ %1$s &#127818;</string>
+    <string name="upperwall_9">Задание выполнено!</string>
+    <string name="upperwall_10">Неверное ключевое слово, ознакомьтесь с заданием еще раз!</string>
+    <string name="upperwall_11">Данное задание больше недоступно!</string>
+    <string name="upperwall_12">Вы не ввели то, что вас попросили в задании!</string>
+    <string name="upperwall_13">Задания</string>
+
+</resources>

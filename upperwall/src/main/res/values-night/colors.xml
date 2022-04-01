@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="panel_color">#1C1C1E</color>
+    <color name="navbar_item">#989BA0</color>
+    <color name="navbar_item_checked">#8880F8</color>
+    <color name="title">#8E8E8E</color>
+    <color name="button_text">#F4F4F4</color>
+    <color name="stroke">#38373C</color>
+    <color name="balance">#FFFFFF</color>
+    <color name="button_pressed">#353537</color>
+
+</resources>

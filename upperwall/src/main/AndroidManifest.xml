@@ -2,10 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.adcoinfam.upperwall">
 
-    <application>
+    <application  android:theme="@style/Theme.Upper">
+
         <activity
             android:name=".OfferWall"
             android:exported="false" />
+
+
     </application>
 
 </manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tasksFragment"
+        android:enabled="true"
+        android:icon="@drawable/tasks_icon"
+        android:title="@string/upperwall_1"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/createTaskFragment"
+        android:enabled="true"
+        android:icon="@drawable/plus_icon"
+        android:title="@string/upperwall_2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/userCabinetFragment"
+        android:enabled="true"
+        android:icon="@drawable/user_icon"
+        android:title="@string/upperwall_3"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/exitFromUpperWall"
+        android:enabled="true"
+        android:icon="@drawable/exit_icon"
+        android:title="@string/upperwall_4"
+        app:showAsAction="ifRoom" />
+
+</menu>

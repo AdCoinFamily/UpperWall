@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#EFEFF4</color>
+    <color name="panel_color">#FFFFFF</color>
+    <color name="navbar_item">#606165</color>
+    <color name="navbar_item_checked">#1A73E9</color>
+    <color name="title">#8F8F8F</color>
+    <color name="button_text">#0F0F0F</color>
+    <color name="gen_text">#212123</color>
+    <color name="stroke">#CFCED0</color>
+    <color name="balance">#000000</color>
+    <color name="profile">#1200BCD4</color>
+    <color name="done">#4CAF50</color>
+    <color name="chemp_back">#12BA8C01</color>
+    <color name="button_pressed">#d1d0d6</color>
+    <color name="premiumPageBackground">#DBD5FA</color>
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="pinkAuth">#EC709A</color>
+    <color name="goldenCode">#EDDB38</color>
+    <color name="defaultText">#929598</color>
+    <color name="forEditTexts">#8C8D92</color>
+    <color name="AdcolonyText">#9871DF</color>
+    <color name="QiwiText">#EFAD4A</color>
+    <color name="RefsText">#FFA74C</color>
+    <color name="AdCoinLiveText">#EF806B</color>
+    <color name="smooziText">#98e230</color>
+    <color name="SettingsPlit">#29B1A4</color>
+    <color name="dark_mode">#3793E9</color>
+    <color name="alert">#F885F2</color>
+    <color name="vk_title">#4d76a1</color>
+    <color name="instagram_title">#FC287D</color>
+    <color name="telegram_title">#00B6F4</color>
+    <color name="rubbled">#00FC9B</color>
+    <color name="pp">#5D69FF</color>
+    <color name="daytext">#848588</color>
+    <color name="nighttext">#C6C7CA</color>
+
+
+    <color name="DayTheme">#F4F4F4</color>
+    <color name="NightTheme">#202125</color>
+    <color name="change_password">#FD353A</color>
+    <color name="hint">#76777A</color>
+
+
+    //for styles
+    <color name="theme_switch_active">#3794e9</color>
+    <color name="theme_switch_normal">#03e5fd</color>
+
+    <color name="alert_switch_active">#CF39B9</color>
+    <color name="alert_switch_normal">#fb90f4</color>
+
+    //navbar
+    <color name="navbar_item_dark">#D1CBCA</color>
+    <color name="navbar_item_white">#757575</color>
+
+
+    //events
+    <color name="generalColor">#FCA018</color>
+    <color name="BarColor">#B5761A</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>

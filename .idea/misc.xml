@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="upperwall/src/main/res/drawable/button.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/button_orange.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/edittext2.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/navbar_config.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/plus_icon.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/tasks_icon.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/drawable/user_icon.xml" value="0.1495" />
+        <entry key="upperwall/src/main/res/layout/activity_offer_wall.xml" value="0.16983695652173914" />
+        <entry key="upperwall/src/main/res/layout/fragment_personal_cabinet.xml" value="0.16983695652173914" />
+        <entry key="upperwall/src/main/res/layout/fragment_tasks.xml" value="0.16983695652173914" />
+        <entry key="upperwall/src/main/res/layout/task.xml" value="0.3099050107209579" />
+        <entry key="upperwall/src/main/res/menu/tasks_menu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
