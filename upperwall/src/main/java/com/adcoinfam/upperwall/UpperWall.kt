@@ -12,6 +12,7 @@ import java.util.HashMap
 
 
 class UpperWall {
+
     companion object  {
         fun launch(appID: String, customID: String, context: Context) {
             val i = Intent(context, OfferWall::class.java)

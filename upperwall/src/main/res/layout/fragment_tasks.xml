@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/mango"
+            android:text="@string/upperwall_orange_emoji"
             android:textAlignment="center"
             android:textColor="@color/title"
             android:textSize="70sp" />

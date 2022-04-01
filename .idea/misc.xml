@@ -11,6 +11,7 @@
         <entry key="upperwall/src/main/res/drawable/tasks_icon.xml" value="0.1495" />
         <entry key="upperwall/src/main/res/drawable/user_icon.xml" value="0.1495" />
         <entry key="upperwall/src/main/res/layout/activity_offer_wall.xml" value="0.16983695652173914" />
+        <entry key="upperwall/src/main/res/layout/fragment_create_task.xml" value="0.16983695652173914" />
         <entry key="upperwall/src/main/res/layout/fragment_personal_cabinet.xml" value="0.16983695652173914" />
         <entry key="upperwall/src/main/res/layout/fragment_tasks.xml" value="0.16983695652173914" />
         <entry key="upperwall/src/main/res/layout/task.xml" value="0.3099050107209579" />
